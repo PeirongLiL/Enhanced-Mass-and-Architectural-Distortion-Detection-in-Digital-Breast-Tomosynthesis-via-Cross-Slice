@@ -1,5 +1,5 @@
 # Enhanced Mass and Architectural Distortion Detection in Digital Breast Tomosynthesis via Cross-Slice Weighted Box Fusion
-
+[**中文版 README**](README_zh.md)
 This repository contains the codebase for the breast cancer detection and evaluation framework presented in our paper (Review in Pattern Recognition) proposed in the study to enhance final prediction results. The framework includes dataset preparation, training, evaluation using AUC and FROC metrics, and fusion of model outputs.
 
 config.py -- Contains configuration settings and parameters for training and inference using YOLOv8. We trained YOLO using the mmdet library (https://mmyolo.readthedocs.io/zh-cn/latest/).

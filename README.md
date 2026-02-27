@@ -1,6 +1,6 @@
 # Enhanced Mass and Architectural Distortion Detection in Digital Breast Tomosynthesis via Cross-Slice Weighted Box Fusion
 
-[**中文版 README**](README_zh.md)
+[**中文版 README**](readme_zh.md)
 
 ## Overview
 

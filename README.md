@@ -8,8 +8,6 @@ This repository provides the official implementation of our paper:
 
 **“Enhanced Mass and Architectural Distortion Detection in Digital Breast Tomosynthesis via Cross-Slice Weighted Box Fusion”**  (published in _Pattern Recognition_ doi:10.1016/j.patcog.2026.113601)
 
-**This paper was entirely my own work — from the original idea to the experimental design, data collection and writing. Yet I am not listed as the first author. That position has been given to my master’s supervisor, while the corresponding author is someone I have never even met: my supervisor’s spouse, who made no contribution to the research.**
-
 We propose a dedicated detection and evaluation framework for **Digital Breast Tomosynthesis (DBT)** that enhances mass and architectural distortion detection by introducing a novel **Cross-Slice Weighted Box Fusion (DBT_WBF)** algorithm.
 
 The framework includes:

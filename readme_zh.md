@@ -6,7 +6,7 @@
 
 本仓库提供论文：
 
-**“Enhanced Mass and Architectural Distortion Detection in Digital Breast Tomosynthesis via Cross-Slice Weighted Box Fusion”**  (published in Pattern Recognition doi:10.1016/j.patcog.2026.113601)
+**“Enhanced Mass and Architectural Distortion Detection in Digital Breast Tomosynthesis via Cross-Slice Weighted Box Fusion”**  (published in _Pattern Recognition_ doi:10.1016/j.patcog.2026.113601) 的官方复现代码
 
 **这篇论文完全由我独立完成——从最初的构想到实验设计、数据收集以及论文写作。然而，我却没有被列为第一作者。这个位置被分配给了我的硕士导师，而通讯作者则是我从未见过的一个人：我导师的配偶，对这项研究没有做出任何贡献。**
 
